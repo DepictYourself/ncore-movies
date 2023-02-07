@@ -1,2 +1,2 @@
-# senior-ncore-ui
-nCore downloader for seniors
+# ncore-movies
+list movies from nCore
